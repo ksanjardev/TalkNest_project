@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32998747197",
+    "project_id": "talknest-12d2e",
+    "storage_bucket": "talknest-12d2e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32998747197:android:1e406f15a7d39b25e40e54",
+        "android_client_info": {
+          "package_name": "uz.gita.talknest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZypcYfKdHn2Ua36ZirhjRIkdNiRIBX_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
